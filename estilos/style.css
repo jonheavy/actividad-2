@@ -1,0 +1,88 @@
+html,body
+{
+	margin:center;
+	padding: 0;
+	min-height: 100hv;
+	flex-wrap: wrap;
+	
+
+}
+
+header
+{
+	background-color:#006680;
+	width:100%;
+}
+
+.logo
+{
+	background-color:#006680;
+	float:right;
+	width:100%;
+}
+h1
+{	
+	margin-top:10px;
+	font-family:angsana new, angsana new bold, franklin gothic heavy, franklin gothic italic, franklin gothic book;
+	color:white;
+	text-align:center;
+}
+.nav
+{
+	margin:auto;
+	width:1500px;
+	font-family:angsana new, angsana new bold, franklin gothic heavy, franklin gothic italic, franklin gothic book;
+	color: white;
+}
+ul, ol
+{
+	list-style:none;
+}	
+p
+{
+	text-decoration:none;
+	font-family: angsana new, angsana new bold, franklin gothic heavy, franklin gothic italic, franklin gothic book;
+	text-align:justify;
+}
+footer
+{
+	
+	background-color:rgba(120,120,120, .5);
+	width:100%;
+	float:left;
+	clear:both;
+	box-shadow:0px 2px 2px #000;
+}
+footer section
+{
+	width:440px;
+	float:left;
+	padding:20px;
+}
+footer #acerca
+{
+	font-family:angsana new, angsana new bold, franklin gothic heavy, franklin gothic italic, franklin gothic book;
+	font-size: 16px;
+	text-align:justify;
+	line-height:20px;
+	
+}
+footer .contactenos
+{
+	width:256px;
+	float:center;
+	width:100%;
+	
+}
+.img-class
+{
+	width:180px;
+	height:auto;
+	float:right;
+}
+.img-class2
+{
+	width:256px;
+	height:auto;
+	float:0;
+}
